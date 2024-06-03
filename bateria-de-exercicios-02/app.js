@@ -208,7 +208,7 @@ const allEpisodes = `O nº de episódios é: ${episodes}`;
 - Não modifique nenhuma aspas da string para aspas duplas.
 - Não use template strings.
 */
-const bookMessage = "'O Conto da Aia' é um dos livros mais vendidos da década."
+const bookMessage = '\'O Conto da Aia\' é um dos livros mais vendidos da década.'
 // console.log(bookMessage)
 
 
